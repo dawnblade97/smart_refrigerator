@@ -1,4 +1,4 @@
-# HackWithInfy-SmartRefrigerator
+# SmartRefrigerator
 A program made using DeepAI and python for smart refrigerator for HackWithInfy Hackathon
 
 Made By -
